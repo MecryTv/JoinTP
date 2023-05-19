@@ -1,0 +1,6 @@
+name: JoinTP
+version: '${project.version}'
+main: de.mecrytv.mc.jointp.JoinTP
+api-version: 1.19
+commands:
+  setspawn:
